@@ -8,6 +8,9 @@ The included samples represent how to use Java AWS Lambda functions as Alexa Ski
 The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
 link below for more details):
 
+
+
+
 - HelloWorld: a simple skill that repeats Hello World! on user input
 - SpaceGeek : a simple skill that responds to the user with a space fact.
 - Session: a simple skill that asks for your favorite color, then repeats it back to you using session attributes.
